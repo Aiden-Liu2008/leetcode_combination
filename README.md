@@ -3,6 +3,7 @@
 Interview Question 1: Assignment Operator Functions
 
 Question: The following is a declaration of the type CMyString, add an assignment operator function to this type.
+
 class CMyString
 {
 public:
